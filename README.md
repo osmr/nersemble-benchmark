@@ -32,7 +32,7 @@ For submitting your results, please go to our [submission system](https://kaldir
     pip install setuptools
     pip install "chumpy @ git+https://github.com/mattloper/chumpy.git@580566eafc9ac68b2614b64d6f7aaa84eebb70da"  --no-build-isolation --no-cache-dir -v
     ```
- 5. Download `flame2023.pkl` and place it in `~/.cache/FLAME/`. 
+ 6. Download `flame2023.pkl` and place it in `~/.cache/FLAME/`. 
 
 ## 2. Data Download
 
